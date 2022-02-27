@@ -1,5 +1,4 @@
-# mySeniorProject
-Robotic arm synchronize using Brushless DC motor for virtual haptic
+# Robotic arm synchronize using Brushless DC motor for virtual haptic
 
 ## Components
 1. DRV8323RH (60V Three-Phase Smart Gate Driver)
